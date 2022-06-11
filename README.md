@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shovan Nayak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="cading" width="400" src="https://dribbble.com/shots/4502924-Python-developer-animation">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shovannayak797&label=Profile%20views&color=0e75b6&style=flat" alt="shovannayak797" /> </p>
 
