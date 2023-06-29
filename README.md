@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📫 How to reach me **shgovannayak797@gmail.com**
+- 📫 How to reach me **shovannayak797@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
